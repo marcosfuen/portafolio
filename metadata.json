@@ -1,0 +1,8 @@
+{
+  "name": "ProPortfolio & CMS",
+  "description": "A professional portfolio application with a powerful administrative panel to manage content, themes, and analytics. Powered by Gemini for creative writing assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
